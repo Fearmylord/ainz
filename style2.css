@@ -1,0 +1,44 @@
+body {
+    background-image: url(nazarick\ flag.png);
+    margin: 0;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+}
+H1 {
+    font-size: 100px;
+    color: white;
+    display: flex;
+    justify-content: center;
+}
+.dickless1 {
+   margin-left:10px;
+    min-height: 750px;
+    width: 200px;
+    font-size: xx-large;
+    color: white;
+    
+}
+.content {
+    height: 635px; 
+    display: flex;
+    justify-content: flex-end;
+    flex-direction: column;
+}
+.dickless2 {
+    margin-left:10px;
+    min-height: 800px;
+    width: 200px;
+    font-size: xx-large;
+    color: white;
+    
+}
+a {
+    color: white;
+    text-decoration: none;
+
+}
+a:hover {
+    font-size: 90px;
+}

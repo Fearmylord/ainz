@@ -1,0 +1,36 @@
+body {
+    background-image: url(Re-Estize.webp);
+    margin: 0;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+}
+h1 {
+    display: flex;
+    font-size: 100px;
+    justify-content: center;
+    color: white;
+}
+.content {
+    height: 635px;
+    display: flex;
+    justify-content: flex-start;
+    
+}
+.dickless1 {
+    margin-left: 100px;
+    min-height: 750px;
+    width: 200px;
+    font-size: xx-large;
+    color: white;
+    
+}
+a {
+    color: white;
+    text-decoration: none;
+
+}
+a:hover {
+    font-size: 90px;
+}

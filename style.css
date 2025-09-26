@@ -1,0 +1,60 @@
+body {
+    background: url(ultra-hd-ainz-ooal-gown-overlord-artwork-ab2lrv8tun9t1rjm.jpg);
+    margin: 0;
+    background: cover;
+}
+.box-1 {
+    display: flex;
+    background-color: none;
+    padding: 60px;
+}
+.box-2 {
+    display: flex;
+    background-color: none;
+    padding: 60px;
+}
+.box-3 {
+    display: flex;
+    background-color: none;
+    padding: 60px;
+    
+}
+.flex-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+    
+    
+    
+} 
+a {    
+    text-decoration: none;
+    color: white;
+    font-size: 100px;
+    text-shadow: 5px 5px 10px #000;
+}
+a:hover {
+    font-size: 110px;
+    text-decoration: underline;
+    color: rgb(145, 20, 45);
+    
+}
+p {
+    color: white;
+    font-size: xx-large;
+    display: flex;
+}
+#stupid {
+    font-size: xx-small;
+    color: rgb(128, 133, 64);
+    display: flex;
+    justify-content: flex-end;
+}
+header {
+    display: flex;
+    font-size: 90px;
+    color: white;
+    justify-content: center;
+    background-color: rgb(140, 38, 38);
+}
